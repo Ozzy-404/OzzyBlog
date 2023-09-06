@@ -1,0 +1,4 @@
+```{r}
+title(Blog 1)
+author(Ozzy)
+```
