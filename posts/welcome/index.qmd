@@ -1,12 +1,10 @@
 ---
-title: "Welcome To My Blog"
-author: "Tristan O'Malley"
-date: "2023-09-03"
+title: "Welcome to Blogging "
+author: "Ozzy"
+date: "September 6 2023"
 categories: [news]
 ---
 
-Hello world!
+A little rough on the start up but I assumed that the learning curve will be a rocky journey.
 
-![](images/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg)
-
-/i
+![](/jeep-off-road.gif)
